@@ -1,0 +1,8 @@
+; N2200 polymer - parameterized by ChamikaraK @UofA
+
+#include        "forcefield.itp"
+[ system ]
+NDI
+[ molecules ]
+NDI       120    
+
