@@ -1,5 +1,5 @@
 ;Polymer parameter file developed by ChamikaraK University of Arizona | Monomer generated through LigParGen Sever Jorgensen Lab @Yale University. 
-;Explicit Hirshfield charge populations (CM5) and torsional potentials @DFT OT (0.1553 bohr-1) HPBE 6-31G** 
+;Explicit Hirshfield charge populations (CM5) and torsional potentials @DFT OT (0.1533 bohr-1) HPBE 6-31G** 
 
 [ atomtypes ]
  opls_9536  H536     1.0080     0.000    A    2.50000E-01   1.25520E-01
